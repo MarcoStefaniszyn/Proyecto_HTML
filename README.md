@@ -19,11 +19,7 @@ El objetivo es aprender la estructura básica de una página web, organizar el c
 ---
 
 ## 🌐 Demo del sitio
-
-(Una vez que actives GitHub Pages, agregá el link aquí)
-
-Ejemplo:
-
+https://marcostefaniszyn.github.io/Proyecto_HTML/
 
 ---
 
@@ -44,7 +40,8 @@ Ejemplo:
 2. Abrí el archivo **`index.html`** en tu navegador.
 
 ### 🔹 Opción 2 — Online (GitHub Pages)
-(Agregarás el link aquí cuando lo actives)
+
+https://marcostefaniszyn.github.io/Proyecto_HTML/
 
 ---
 
